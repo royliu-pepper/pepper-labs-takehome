@@ -1,4 +1,4 @@
-# Catalog Manager — Full-Stack Engineer Take-Home
+# Catalog Manager — Take-Home Test
 
 A food service supply catalog management app. The backend is a Node/Express API backed by SQLite; the frontend is React + Tailwind served by Vite.
 
